@@ -1,2 +1,2 @@
 # privacy-policy
-Provacy policy
+Privacy policy
